@@ -144,11 +144,12 @@ steam-reviews-bigdata/
 
 ## Grup Üyeleri
 
-| İsim | Öğrenci No | Görev |
-|------|-----------|-------|
-| _İsim 1_ | _No_ | _Görev_ |
-| _İsim 2_ | _No_ | _Görev_ |
-| _İsim 3_ | _No_ | _Görev_ |
+| İsim | Öğrenci No |
+|------|------------|
+| Hüseyin Tüç | 220201011 |
+| Buğra Çelik | 220201093 |
+| Muhammed Lokman Şahin | 220201019 |
+| Ahmed Göktuğ Aydın | 210201001 |
 
 ## Lisans
 
